@@ -1,5 +1,9 @@
 # Juspay UI Developer Assignment
 
+## Live Demo
+
+Visit the live application: [Project Demo](https://aman-juspay-ui-dev-assignment.netlify.app/)
+
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine.
