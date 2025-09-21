@@ -4,7 +4,6 @@ import SidebarTopbar from "./components/SidebarTopbar";
 import OrderList from "./pages/OrderList";
 import Home from "./pages/Home";
 import { AppProvider } from "./contexts/AppContext";
-
 function App() {
   const router = createBrowserRouter([
     {
@@ -16,12 +15,10 @@ function App() {
       ],
     },
   ]);
-
   return (
     <AppProvider>
       <RouterProvider router={router} />
     </AppProvider>
   );
 }
-
 export default App;

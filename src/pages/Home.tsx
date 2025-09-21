@@ -5,11 +5,8 @@ import { AppContext } from "../contexts/AppContext";
 function Home() {
   const navigate = useNavigate();
   const context = useContext(AppContext);
-
   if (!context) return <div>Loading...</div>;
-
   const { theme } = context;
-
   return (
     <div className="dark:bg-[#1c1c1c] p-[12px]">
       <span
@@ -35,7 +32,6 @@ function Home() {
                 data2Icon: "ArrowRise.png",
                 bgColor: "#e3f5ff",
               },
-
               {
                 cardName: "Orders",
                 data1: "1,219",

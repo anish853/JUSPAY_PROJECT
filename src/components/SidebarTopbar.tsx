@@ -2,7 +2,6 @@ import { Outlet } from "react-router-dom";
 import Navbar from "./Navbar";
 import Sidebar from "./Sidebar";
 import RightBar from "./RightBar";
-
 function SidebarTopbar() {
   return (
     <>
@@ -19,5 +18,4 @@ function SidebarTopbar() {
     </>
   );
 }
-
 export default SidebarTopbar;
