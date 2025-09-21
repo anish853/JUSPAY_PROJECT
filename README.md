@@ -13,9 +13,8 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository
 
 ```bash
-git clone https://github.com/amanpatel23/Juspay-UI-Developer-Assignment
+git clone https://github.com/anish853/JUSPAY_PROJECT.git
 ```
-
 2. Navigate to the project directory
 
 ```bash
@@ -35,7 +34,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
 The application will be available at `http://localhost:5173` (or another port if 5173 is occupied).
 
 ## Available Scripts
