@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Visit the live application: [Project Demo](https://aman-juspay-ui-dev-assignment.netlify.app/)
+Visit the live application: [Project Demo](https://juspay-project-5zuroyhyg-anishbhardwajs-projects.vercel.app/)
 
 ## Getting Started
 
